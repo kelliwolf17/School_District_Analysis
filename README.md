@@ -6,7 +6,7 @@ The purpose of this analysis was to determine how the academic dishonesty within
 # Results
 
 ## District Summary
-Analysis Blurb
+For the district summary, the scores and % passing metrics were slightly reduced. One can conclude that some 9th graders from THS inflated their scores, but it did not have a large affect on the whole district.
 
 ### With THS 9th Graders:
 
@@ -15,6 +15,8 @@ Analysis Blurb
 ### Without THS 9th Graders:
 
 ![post district summary](https://user-images.githubusercontent.com/71397190/97233018-4129bc00-17ac-11eb-9eee-be2e273c9af9.PNG)
+
+### Re-evaluating THS Percentages
 
 ## School Sumary
 Analysis blurb
@@ -39,7 +41,7 @@ analysis blurb
 ![post top schools](https://user-images.githubusercontent.com/71397190/97233026-425ae900-17ac-11eb-9292-b45cde286624.PNG)
 
 ## Scoring Metrics 
-analysis blurb
+The only change in the scoring metrics between the old analysis and the updated analysis without THS 9th grader's test scores in the data occur in the 'Math Scores' and 'Reading Scores' charts where the 9th Grade is replaced by 'nan'. Otherwise the charts all remain the same. The spending, school size and type did not change just because the scores were removed, so it was not expected that any of these would result in something different. 
 
 ### Math Scores:
 
